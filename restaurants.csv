@@ -1,0 +1,313 @@
+,rest_name,star_rating,restaurant_reviews_count,restaurant_price,restaurant_cuisines,restaurant_area,restaurant_delivery_options
+0,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+1,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+2,Aanch,4.5,170,$$,['Indian'],Entertainment District,['Delivery']
+3,The Bombay,5.0,4,,"['Indian', 'Hakka', 'Venues & Event Spaces']",Queen Street West,"['Outdoor dining', 'Delivery', 'Takeout']"
+4,Roti Mahal Indian Cuisine,4.5,9,,['Indian'],Alexandra Park,"['Outdoor dining', 'Delivery', 'Takeout']"
+5,Thindi,4.5,16,,['Indian'],Ryerson,"['Delivery', 'Takeout']"
+6,Bindia Indian Bistro,4.0,188,$$,['Indian'],St. Lawrence,"['Outdoor dining', 'Delivery', 'Takeout']"
+7,Khau Gully,4.0,92,$$,['Indian'],Mount Pleasant and Davisville,[]
+8,Indian Desire,5.0,9,,['Indian'],,"['Outdoor dining', 'Delivery', 'Takeout']"
+9,Cumin Kitchen - Fine Indian Cuisine,4.5,59,,['Indian'],The Danforth,"['Delivery', 'Takeout']"
+10,Pukka Pukka,5.0,11,,['Indian'],,"['Outdoor dining', 'Delivery', 'Takeout']"
+11,Bhoj Indian Cuisine,4.0,64,$$,['Indian'],Yorkville,"['Outdoor dining', 'Delivery', 'Takeout']"
+12,Kathmandu Restaurant,3.5,61,,"['Himalayan/Nepalese', 'Indian']",Yorkville,"['Proof of vaccination required', 'Delivery', 'Takeout']"
+13,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+14,Adda Bistro,4.0,8,,"['Bars', 'Indian']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+15,Indian Roti House,4.0,208,$$,['Indian'],Harbourfront,"['Delivery', 'Takeout']"
+16,Saffron Spice Kitchen,4.0,125,$,"['Indian', 'Soup', 'Sandwiches']",Queen Street West,['$20 for $25 Deal']
+17,Banjara Indian Cuisine,3.5,417,$$,['Indian'],Christie Pits,[]
+18,Himalayan Kitchen,4.5,124,$$,"['Indian', 'Himalayan/Nepalese']",Parkdale,[]
+19,Madras Masala,4.0,148,$$,['Indian'],Christie Pits,[]
+20,Mannat Indian & Hakka Bar,5.0,1,,"['Indian', 'Hakka']",Dufferin Grove,[]
+21,Little India Restaurant,3.5,390,$$,"['Indian', 'Buffets']",Queen Street West,"['Delivery', 'Takeout']"
+22,Sher-E-Punjab,4.0,81,$$,['Indian'],Riverdale,"['Outdoor dining', 'Delivery']"
+23,Pukka,4.0,166,,['Indian'],,[]
+24,Tamasha,4.0,20,,"['Bars', 'Indian']",Mount Pleasant and Davisville,"['Outdoor dining', 'Delivery', 'Takeout']"
+25,Kathmandu Restaurant,3.5,61,,"['Himalayan/Nepalese', 'Indian']",Yorkville,"['Proof of vaccination required', 'Delivery', 'Takeout']"
+26,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+27,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+28,Lahore Tikka House,3.5,508,$$,"['Halal', 'Pakistani']",Leslieville,"['Outdoor dining', 'Delivery', 'Takeout']"
+29,Matha Roti - East Indian Cuisine,4.0,32,,['Indian'],,"['Delivery', 'Takeout']"
+30,Masala Guys,4.5,5,,['Indian'],The Annex,"['Delivery', 'Takeout']"
+31,Maezo Indian Cuisine,5.0,9,,['Indian'],Downtown Core,"['Outdoor dining', 'Delivery', 'Takeout']"
+32,Good Karma,4.5,11,,"['Indian', 'Juice Bars & Smoothies', 'Salad']",Riverdale,"['Delivery', 'Takeout']"
+33,Leela Indian Food Bar,4.0,93,$$,['Indian'],The Junction,"['Delivery', 'Takeout']"
+34,Chadani Indian Cuisine,4.5,21,,['Indian'],,"['Delivery', 'Takeout']"
+35,Naan & Kabob,4.0,124,$$,"['Afghan', 'Kebab']",Church-Wellesley Village,"['Delivery', 'Takeout']"
+36,Aroma Fine Indian Cuisine,3.5,210,$$,['Indian'],Entertainment District,['Delivery']
+37,Twisted Indian Wraps,4.5,3,,['Indian'],Deer Park,"['Outdoor dining', 'Takeout']"
+38,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+39,Indian Roti Meal,0.0,0,,"['Halal', 'Fast Food', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+40,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+41,Kathmandu Restaurant,3.5,61,$$,"['Indian', 'Himalayan/Nepalese']",Yorkville,"['Proof of vaccination required', 'Delivery', 'Takeout']"
+42,Aafrien,4.5,7,,['Indian'],Yonge and Eglinton,"['Outdoor dining', 'Delivery', 'Takeout']"
+43,Indian Street Food Company,3.5,75,$$,"['Indian', 'Wine Bars']",Mount Pleasant and Davisville,[]
+44,Mother India,4.0,196,$$,['Indian'],Parkdale,[]
+45,Suruthi’s Take Out & Catering,4.0,9,$,['Indian'],Cabbagetown,[]
+46,Lageez,4.5,103,$$,['Indian'],Scarborough,"['Outdoor dining', 'Delivery', 'Takeout']"
+47,Naanspot- Modern Indian Cuisine,4.0,5,,['Indian'],,"['Outdoor dining', 'Delivery', 'Takeout']"
+48,Roti Cuisine of India,4.5,107,,['Indian'],,['Delivery']
+49,Utsav,4.0,123,$$,"['Food Delivery Services', 'Indian']",Yorkville,[]
+50,Karahi Boys,4.0,27,,"['Pakistani', 'Barbeque']",Scarborough,"['Outdoor dining', 'Delivery', 'Takeout']"
+51,Panera Bread,3.0,59,,"['Soup', 'Salad', 'Sandwiches']",,"['Delivery', 'Takeout']"
+52,Indian Roti Meal,0.0,0,,"['Fast Food', 'Halal', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+53,Adda Bistro,4.0,8,,"['Bars', 'Indian']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+54,Roti’s To Go,4.0,16,,['Indian'],Ryerson,"['Delivery', 'Takeout']"
+55,Suksi Biryani House,3.5,65,$,['Indian'],Church-Wellesley Village,[]
+56,Raj Mahal Indian Cuisine,4.5,32,,"['Indian', 'Kebab']",,"['Delivery', 'Takeout']"
+57,Tibet Kitchen,4.5,245,$$,['Himalayan/Nepalese'],Parkdale,['Delivery']
+58,Govinda’s,4.0,36,$,"['Vegetarian', 'Vegan', 'Indian']",Summer Hill,"['Delivery', 'Takeout']"
+59,Banjara Indian Cuisine,4.0,138,$$,['Indian'],Yonge and Eglinton,[]
+60,Indian Grill,4.0,85,$$,['Indian'],Ossington Strip,[]
+61,Tadka - Sizzling Indian Spices,5.0,9,,['Indian'],Etobicoke,"['Delivery', 'Takeout']"
+62,My Roti Place,4.5,25,,['Indian'],Niagara,"['Delivery', 'Takeout']"
+63,Bajra Indian & Hakka Chinese Cuisine,4.5,15,,"['Indian', 'Hakka']",,['Takeout']
+64,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+65,Silver Chopsticks,4.5,10,,"['Vietnamese', 'Thai']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+66,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+67,Miya Bhai,4.5,11,,['Indian'],Seaton Village,[]
+68,Butter Chicken Roti,4.0,34,,['Indian'],Corktown,"['Delivery', 'Takeout']"
+69,Maja Indian Cuisine,4.0,28,,['Indian'],,[]
+70,My Roti Place,4.0,15,,['Indian'],Harbourfront,"['Delivery', 'Takeout']"
+71,Chandni Chowk Restaurant,4.0,28,,['Indian'],,"['Outdoor dining', 'Delivery', 'Takeout']"
+72,Byblos,4.5,814,$$$,"['Mediterranean', 'Middle Eastern']",Entertainment District,"['Delivery', 'Takeout']"
+73,Butter Chicken Factory,3.5,125,$$,"['Indian', 'Buffets']",Cabbagetown,"['Delivery', 'Takeout']"
+74,Motimahal,3.5,101,,['Indian'],,['Delivery']
+75,The Host Fine Indian Cuisine,3.5,117,$$,['Indian'],Downtown Core,"['$35 for $50 Deal', 'Outdoor dining', 'Delivery', 'Takeout']"
+76,Colaba Junction,3.0,70,$$,['Indian'],Downtown Core,[]
+77,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+78,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+79,Indian Roti Meal,0.0,0,,"['Halal', 'Fast Food', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+80,Madras Kaapi,5.0,1,,"['Coffee & Tea', 'Indian']",Dufferin Grove,[]
+81,South Indian Dosa Mahal,4.0,6,,['Indian'],Parkdale,['Delivery']
+82,Kothur Indian Cuisine,3.5,83,$$,['Indian'],Church-Wellesley Village,[]
+83,TVX,5.0,22,,"['Vegan', 'Indian']",Kensington Market,"['Outdoor dining', 'Delivery', 'Takeout']"
+84,Maurya East Indian Roti,3.0,41,$$,['Indian'],Liberty Village,[]
+85,The Veggie Thali,4.5,57,,"['Indian', 'Vegetarian', 'Vegan']",,['Delivery']
+86,309 Dhaba Indian Excellence,3.0,183,$$,['Indian'],Entertainment District,[]
+87,Dil Se Indian Restaurant & Bar,0.0,0,,"['Indian', 'Bars']",Roncesvalles,[]
+88,Spice66,4.0,3,,"['Indian', 'Kebab']",Ryerson,"['Outdoor dining', 'Delivery', 'Takeout']"
+89,Kamasutra Indian Restaurant & Wine Bar,3.5,102,$$,"['Indian', 'Wine Bars']",Mount Pleasant and Davisville,"['Outdoor dining', 'Delivery', 'Takeout']"
+90,Panera Bread,3.0,59,,"['Salad', 'Sandwiches', 'Soup']",,"['Delivery', 'Takeout']"
+91,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+92,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+93,Annalakshmi,3.0,6,,"['Vegetarian', 'Indian']",Entertainment District,[]
+94,Butter Chicken Roti,3.5,12,,['Indian'],Downtown Core,"['Outdoor dining', 'Delivery', 'Takeout']"
+95,Bombay Chowpatty,3.0,54,,"['Indian', 'Vegetarian']",,['Delivery']
+96,Nawab Express On Avenue,3.5,23,,['Indian'],,[]
+97,Pili Pili,4.5,39,$$,"['Indian', 'African']",Scarborough,[]
+98,Maroli Indian Restaurant,3.5,45,$$,"['Indian', 'Halal', 'Food Delivery Services']",Koreatown,[]
+99,My Roti Place,4.0,19,,['Indian'],Mount Pleasant and Davisville,"['Delivery', 'Takeout']"
+100,King Place,3.5,42,,"['Pakistani', 'Indian']",,[]
+101,Mumbaikar Indian Restaurant and Bar,5.0,1,,"['Indian', 'Bars']",Dufferin Grove,"['Outdoor dining', 'Delivery', 'Takeout']"
+102,Chaska,4.0,1,,['Indian'],Entertainment District,[]
+103,Panera Bread,3.0,59,,"['Salad', 'Sandwiches', 'Soup']",,"['Delivery', 'Takeout']"
+104,Indian Roti Meal,0.0,0,,"['Indian', 'Fast Food', 'Halal']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+105,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+106,Ambiyan on Yonge,4.0,10,,['Indian'],Deer Park,[]
+107,My Roti Place,3.5,63,$$,['Indian'],Queen Street West,[]
+108,Bukhara Grill,4.0,62,$$,"['Indian', 'Vegan', 'Himalayan/Nepalese']",Swansea,[]
+109,Govardhan Thal,3.5,24,$,['Indian'],Scarborough,[]
+110,Patio Indian Restaurant,5.0,4,,['Indian'],,[]
+111,Bombay Touch,4.0,66,,['Indian'],,"['Delivery', 'Takeout']"
+112,CurryFace,4.5,2,,"['Indian', 'Food Stands']",Ryerson,[]
+113,Punjabi By Nature,4.5,2,,['Indian'],Riverdale,['Delivery']
+114,Udupi Palace,3.5,194,,"['Indian', 'Vegetarian', 'Gluten-Free']",,['Takeout']
+115,Hyderabad Biryani Hut,3.5,23,,"['Indian', 'Halal']",Scarborough,"['Delivery', 'Takeout']"
+116,Panera Bread,3.0,59,,"['Soup', 'Sandwiches', 'Salad']",,"['Delivery', 'Takeout']"
+117,Indian Roti Meal,0.0,0,,"['Fast Food', 'Halal', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+118,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+119,Subiksha Foods,4.5,36,$,"['Indian', 'Vegetarian']",Scarborough,['Delivery']
+120,Bombay Palace,3.0,53,$$,['Indian'],Corktown,['Takeout']
+121,The Great Maratha,4.0,53,,['Indian'],,[]
+122,Pomegranate Restaurant,4.0,189,,"['Middle Eastern', 'Persian/Iranian']",,"['Delivery', 'Takeout']"
+123,Indian Roti House,3.5,38,$$,['Indian'],Church-Wellesley Village,[]
+124,Sizzler Kabab,3.5,47,$,"['Indian', 'Halal', 'Pakistani']",Chinatown,[]
+125,Angithi Biryani and Wraps,1.5,3,,"['Indian', 'Halal', 'Pakistani']",City Place,"['Outdoor dining', 'Delivery', 'Takeout']"
+126,Savera Indian Cuisine,4.0,54,$$,['Indian'],Wychwood,[]
+127,Karahi Point,4.0,37,,"['Indian', 'Pakistani']",,"['Delivery', 'Takeout']"
+128,Kabul Express,3.5,81,$,['Halal'],Ryerson,['Delivery']
+129,Panera Bread,3.0,59,,"['Salad', 'Sandwiches', 'Soup']",,"['Delivery', 'Takeout']"
+130,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+131,Indian Roti Meal,0.0,0,,"['Indian', 'Fast Food', 'Halal']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+132,Curry Twist Restaurant,4.0,103,$$,['Indian'],The Junction,"['Delivery', 'Takeout']"
+133,DaiKo Indian Kitchen & Nepali Street Food,4.0,49,$$,"['Indian', 'Himalayan/Nepalese']",Parkdale,['Delivery']
+134,Brar Sweets & Restaurant,3.5,38,$,['Indian'],Etobicoke,[]
+135,Vindaloo Indian Cuisine,4.0,48,$$,['Indian'],Scarborough,"['Delivery', 'Takeout']"
+136,Not Just Butter Chicken,4.5,7,,['Indian'],The Danforth,"['Outdoor dining', 'Delivery', 'Takeout']"
+137,House of Indian Roti,3.0,2,,['Indian'],,"['Delivery', 'Takeout']"
+138,Swades Indian Cuisine,2.5,34,$$,['Indian'],Harbourfront,[]
+139,Colaba Junction,3.5,3,,['Indian'],Little Italy,"['Delivery', 'Takeout']"
+140,Punjaabi Grand,4.0,27,$$,"['Buffets', 'Indian', 'Desserts']",Pine Grove,['Takeout']
+141,My Roti Place,5.0,3,,['Indian'],,[]
+142,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+143,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+144,Indian Roti Meal,0.0,0,,"['Halal', 'Fast Food', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+145,Indian Biriyani House,2.5,65,$,"['Indian', 'Halal', 'Bangladeshi']",Downtown Core,['Delivery']
+146,North of Bombay,3.0,40,$$,"['Indian', 'Vegetarian', 'Vegan']",The Junction,"['Delivery', 'Takeout']"
+147,Regency Restaurant,4.0,76,$$,['Indian'],Leslieville,"['Delivery', 'Takeout']"
+148,Annapurna Vegetarian Restaurant,3.5,33,$,"['Vegetarian', 'Indian']",The Annex,"['Delivery', 'Takeout']"
+149,Naans & More,5.0,1,,['Indian'],,[]
+150,My Roti Place,4.0,11,,"['Indian', 'Fast Food']",Leslieville,"['Delivery', 'Takeout']"
+151,My Dosa Place,3.5,15,,['Indian'],Harbourfront,"['Delivery', 'Takeout']"
+152,Cafe Tibet Bar & Grill,4.5,16,,['Himalayan/Nepalese'],High Park,"['Outdoor dining', 'Delivery', 'Takeout']"
+153,Matagali Restaurant,3.5,49,$$,"['Indian', 'Thai']",Downtown Core,"['Delivery', 'Takeout']"
+154,Durbar Indian Cuisine,4.0,14,,['Indian'],Swansea,"['Outdoor dining', 'Delivery', 'Takeout']"
+155,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+156,Indian Roti Meal,0.0,0,,"['Indian', 'Halal', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+157,Adda Bistro,4.0,8,,"['Bars', 'Indian']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+158,Leela Indian Food Bar,4.0,4,,['Indian'],,"['Outdoor dining', 'Delivery', 'Takeout']"
+159,Mt Everest Restaurant,3.5,83,,"['Himalayan/Nepalese', 'Indian']",,"['Delivery', 'Takeout']"
+160,Glory Of India Roti Cuisine,4.0,47,$$,['Indian'],Parkdale,[]
+161,Karma’s Kitchen,4.0,59,$$,['Himalayan/Nepalese'],Leslieville,[]
+162,Kashmir Curry and Biryani Restaurant,3.5,9,$$$$,['Indian'],Etobicoke,[]
+163,T|Bar,3.5,13,$$$,['Indian'],Downtown Core,"['Outdoor dining', 'Takeout']"
+164,Spice 505,4.5,7,,['Indian'],Greektown,"['Outdoor dining', 'Delivery', 'Takeout']"
+165,Mantra,4.0,50,,['Indian'],,"['$15 for $30 Deal', 'Outdoor dining', 'Delivery', 'Takeout']"
+166,Feast of Dilli,4.5,89,$$,['Indian'],Etobicoke,[]
+167,Samosa King - Embassy Restaurant,3.5,196,$,['Indian'],Scarborough,['Takeout']
+168,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+169,Silver Chopsticks,4.5,10,,"['Vietnamese', 'Thai']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+170,Indian Roti Meal,0.0,0,,"['Fast Food', 'Halal', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+171,Makkah Restaurant,3.5,77,$,"['Indian', 'Pakistani', 'Middle Eastern']",The Danforth,[]
+172,Butter Chicken Roti - Bloor W,4.0,9,,"['Indian', 'Vegan', 'Vegetarian']",Dovercourt,[]
+173,Iqbal Kebab & Sweet Centre,3.5,49,,"['Pakistani', 'Barbeque', 'Seafood']",,[]
+174,Bawarchi,3.0,7,,['Indian'],Scarborough,"['Delivery', 'Takeout']"
+175,Haldi,4.5,9,,['Indian'],Cabbagetown,"['Outdoor dining', 'Delivery', 'Takeout']"
+176,Lotus Fine Indian Cuisine,3.5,3,,['Indian'],,"['Delivery', 'Takeout']"
+177,Karahi Point,4.0,81,$$,"['Indian', 'Pakistani']",Etobicoke,"['Delivery', 'Takeout']"
+178,Karaikudi,3.5,110,$$,['Indian'],Scarborough,['Delivery']
+179,Kairali - Taste of Kerala,3.5,70,$$,['Indian'],Scarborough,['Delivery']
+180,Babu Catering & Take Out,4.0,132,$,"['Indian', 'Caterers']",Scarborough,"['Delivery', 'Takeout']"
+181,Adda Bistro,4.0,8,,"['Bars', 'Indian']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+182,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+183,Indian Roti Meal,0.0,0,,"['Halal', 'Fast Food', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+184,Indilicious,4.5,22,,['Indian'],The Junction,[]
+185,Maha’s,4.0,522,$$,"['Egyptian', 'Vegan', 'Sandwiches']",Leslieville,"['Outdoor dining', 'Takeout']"
+186,OM Restaurant and Bar,4.0,47,$$,"['Indian', 'Himalayan/Nepalese']",Parkdale,[]
+187,Butter Chicken Roti,4.5,3,,['Indian'],East York,[]
+188,WeDeshi Foods,4.0,14,$$,"['Indian', 'Halal']",Scarborough,"['Delivery', 'Takeout']"
+189,Chaska Express,3.5,21,,['Indian'],Financial District,"['Delivery', 'Takeout']"
+190,Bom-Bay Snackbar,4.0,1,,"['Indian', 'Persian/Iranian', 'Breakfast & Brunch']",Mount Pleasant and Davisville,[]
+191,Samrat Indian Cuisine,3.0,6,,['Indian'],Bickford Park,"['Outdoor dining', 'Delivery', 'Takeout']"
+192,Bavu Villas,4.5,27,$,"['Sri Lankan', 'Indian', 'Canadian (New)']",Milliken,[]
+193,Chauhan’s Indian Express Take out & Catering,4.5,4,,['Indian'],Scarborough,"['Delivery', 'Takeout']"
+194,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+195,Indian Roti Meal,0.0,0,,"['Fast Food', 'Halal', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+196,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+197,Spicy Aroma,4.0,7,,"['Indian', 'Mediterranean', 'Halal']",Bloordale Village,['Takeout']
+198,The Indian Cuisine,3.5,81,,['Indian'],,[]
+199,Good Karma,4.5,4,,['Indian'],,[]
+200,Elchi Chai Shop,4.5,50,,"['Coffee & Tea', 'Indian']",,"['Outdoor dining', 'Delivery', 'Takeout']"
+201,Touch,3.0,19,$,['Indian'],Downtown Core,[]
+202,Indian Crown,3.0,21,,['Indian'],,[]
+203,Rajdhani Sweets & Restaurant,3.5,32,$,['Indian'],Etobicoke,['Takeout']
+204,The Copper Chimney,3.5,96,,['Indian'],,"['Delivery', 'Takeout']"
+205,Shahi The Royal Roti,3.5,18,,['Indian'],,[]
+206,BBQ Chicken Factory,4.0,2,,"['Barbeque', 'Indian', 'Bangladeshi']",Cabbagetown,"['Delivery', 'Takeout']"
+207,Silver Chopsticks,4.5,10,,"['Vietnamese', 'Thai']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+208,Silver Chopsticks,4.5,10,,"['Vietnamese', 'Thai']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+209,Indian Roti Meal,0.0,0,,"['Fast Food', 'Indian', 'Halal']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+210,The Famous Indian Cuisine,4.0,56,,['Indian'],,[]
+211,Spice Dabba,4.5,3,,['Indian'],,"['Delivery', 'Takeout']"
+212,Mainsha Restaurant,4.0,18,,"['Indian', 'Caribbean', 'Canadian (New)']",,[]
+213,Bombay On the Lake,3.5,42,$$,"['Indian', 'Halal', 'Vegetarian']",New Toronto,"['Outdoor dining', 'Delivery', 'Takeout']"
+214,Indian Roti Meal,0.0,0,,"['Indian', 'Halal', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+215,Marigold Indian Bistro,3.0,74,$$,['Indian'],Mount Pleasant and Davisville,[]
+216,Zam Zam Tikka & Kabab,4.0,27,$$,"['Indian', 'Pakistani']",Scarborough,['Takeout']
+217,Malaysian Garam Masala,4.5,18,$,"['Indian', 'Malaysian']",Scarborough,['Delivery']
+218,Diwan,4.0,59,,['Middle Eastern'],,"['Outdoor dining', 'Delivery', 'Takeout']"
+219,Flaming Stove,4.5,60,$,"['Middle Eastern', 'Diners', 'Breakfast & Brunch']",Mount Pleasant and Davisville,['Delivery']
+220,Adda Bistro,4.0,8,,"['Bars', 'Indian']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+221,Silver Chopsticks,4.5,10,,"['Vietnamese', 'Thai']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+222,Indian Roti Meal,0.0,0,,"['Indian', 'Fast Food', 'Halal']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+223,Loga’s Corner,4.5,154,$,['Himalayan/Nepalese'],Parkdale,['Takeout']
+224,Dum Pukht,3.5,128,,"['Indian', 'Soup', 'Seafood']",,"['Delivery', 'Takeout']"
+225,Gautama,3.5,59,,['Indian'],,[]
+226,Karachi Nihari,5.0,1,,"['Indian', 'Pakistani', 'Barbeque']",Scarborough,"['Delivery', 'Takeout']"
+227,Delhi Bistro,4.0,35,$$,['Indian'],The Beach,[]
+228,Bombay Roti,3.5,16,,['Indian'],,[]
+229,IST Snack Bar,3.5,12,,['Indian'],Parkdale,[]
+230,Stratus Restaurant,5.0,1,,"['Indian', 'American (Traditional)', 'Asian Fusion']",Financial District,['Takeout']
+231,Fat Pasha,4.0,192,$$$,['Middle Eastern'],The Annex,['Delivery']
+232,Amaya,2.5,17,$,['Indian'],Financial District,[]
+233,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+234,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+235,Indian Roti Meal,0.0,0,,"['Fast Food', 'Halal', 'Indian']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+236,Ceylon Spice by Esther,2.5,4,,"['Indian', 'Food Court']",Yorkville,[]
+237,Butter Chicken Roti,3.5,24,,['Indian'],,"['Delivery', 'Takeout']"
+238,Benares Cucina Indian,2.0,1,,['Indian'],St. Lawrence,[]
+239,Ali’s Tandoori Curry House,4.5,11,$$,"['Middle Eastern', 'Indian', 'Pakistani']",The Beach,[]
+240,Tdots Naansense,0.0,0,,"['Food Trucks', 'Indian', 'Salad']",Downtown Core,[]
+241,Patna Kabab House,3.5,50,$$,"['Indian', 'Desserts', 'Pakistani']",Scarborough,['Delivery']
+242,Gharoa Restaurant,4.0,18,$,"['Halal', 'Bangladeshi']",East York,[]
+243,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Outdoor dining', 'Delivery', 'Takeout']"
+244,Premium Sweets,4.0,34,,"['Indian', 'Bangladeshi']",Scarborough,"['Delivery', 'Takeout']"
+245,Shalom India,4.0,12,,"['Indian', 'Kosher']",,[]
+246,Adda Bistro,4.0,8,,"['Bars', 'Indian']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+247,Silver Chopsticks,4.5,10,,"['Vietnamese', 'Thai']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+248,Indian Roti Meal,0.0,0,,"['Fast Food', 'Indian', 'Halal']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+249,The Biryaniwalla,4.0,5,,['Indian'],Scarborough,[]
+250,Maurya East Indian Roti,4.0,81,$$,['Indian'],Etobicoke,[]
+251,Hurry Curry,4.0,13,,['Indian'],,"['Delivery', 'Takeout']"
+252,Lett’us Roll,0.0,0,,['Indian'],Ryerson,"['Outdoor dining', 'Delivery', 'Takeout']"
+253,The Spice Room,4.0,28,,"['Indian', 'Buffets']",,['Delivery']
+254,Roti Palace of India,4.0,16,$$,['Indian'],Etobicoke,[]
+255,Fresh on Spadina,4.0,406,$$,"['Vegan', 'Juice Bars & Smoothies', 'Burgers']",Entertainment District,"['Proof of vaccination required', 'Takeout']"
+256,Sultan of Samosas,4.0,69,,['Indian'],,"['Delivery', 'Takeout']"
+257,Nantha Caters,4.0,24,$,"['Indian', 'Sri Lankan']",Scarborough,[]
+258,Tandori,3.0,6,,['Indian'],,[]
+259,Adda Bistro,4.0,8,,"['Bars', 'Indian']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+260,Indian Roti Meal,0.0,0,,"['Fast Food', 'Indian', 'Halal']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+261,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+262,Veda Healthy IndianTakeout,3.0,22,$,['Indian'],University of Toronto,[]
+263,Urban Maharajas,4.0,28,,['Indian'],,"['Outdoor dining', 'Delivery', 'Takeout']"
+264,6ixTriangles,3.5,7,,"['Indian', 'Caterers']",Liberty Village,[]
+265,Ocean Palate,3.5,12,$$,"['Indian', 'Seafood']",Langstaff,"['Outdoor dining', 'Delivery', 'Takeout']"
+266,Chawk Bazar South Asian Eatery,3.5,45,$$,"['Indian', 'Pakistani', 'Bangladeshi']",Scarborough,[]
+267,Charminar Indian Cuisine,2.5,20,,['Indian'],Scarborough,"['Delivery', 'Takeout']"
+268,Chutneys Fine Indian Cuisine,3.0,44,$$,['Indian'],Etobicoke,[]
+269,TO’s Kathi Roll Eatery,0.0,0,,['Indian'],Queen Street West,[]
+270,Marcello’s Market & Deli,3.5,8,$,"['Buffets', 'Delis']",Financial District,[]
+271,Goa Indian Farm Kitchen,4.0,63,$$,['Indian'],Bayview Village,"['Outdoor dining', 'Delivery', 'Takeout']"
+272,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+273,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+274,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+275,Anjappar Chettinad Restaurant,3.5,58,$$,['Indian'],Scarborough,[]
+276,Punjabi Curries and Kebobs,4.0,1,,"['Pakistani', 'Indian']",,"['Delivery', 'Takeout']"
+277,South Indian Dosa Mahal,0.0,0,,['Indian'],Bloordale Village,[]
+278,Hyderabad Spices,5.0,1,,['Indian'],Etobicoke,[]
+279,Indian Spice Room,3.5,6,,"['Indian', 'Vegetarian']",Riverdale,"['Delivery', 'Takeout']"
+280,Karma’s Kitchen,0.0,0,,"['Himalayan/Nepalese', 'Desserts', 'Indian']",St. Lawrence,[]
+281,Mayur Fine Indian Cuisine,3.5,55,$$,['Indian'],Scarborough,"['Outdoor dining', 'Delivery', 'Takeout']"
+282,Vivah Restaurant,2.5,2,$$,['Indian'],Deer Park,[]
+283,Simba Grill,3.5,23,$$,"['Indian', 'African']",East York,[]
+284,Amaya Express,2.5,48,$$,"['Indian', 'Fast Food']",Downtown Core,[]
+285,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+286,Silver Chopsticks,4.5,10,,"['Vietnamese', 'Thai']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+287,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+288,Hashtag India,5.0,1,,['Indian'],,"['Delivery', 'Takeout']"
+289,Cinamon Indian Bistro,4.0,62,$$,['Indian'],The Beach,['Delivery']
+290,Jikoni Grill,4.5,3,$$,"['Indian', 'African']",Scarborough,[]
+291,Annapurnas Mithai Shoppe,4.0,17,$$$,['Indian'],Scarborough,['Delivery']
+292,The Halal Guys,3.0,257,$$,"['Middle Eastern', 'Halal']",Church-Wellesley Village,"['Delivery', 'Takeout']"
+293,Spice inn,4.5,4,,['Indian'],,['Delivery']
+294,Lahore BBQ Paan Center,3.5,12,$,"['Pakistani', 'Halal']",Leslieville,['Delivery']
+295,Red Hot Tandoori,3.5,6,$,"['Indian', 'Pakistani']",East York,['Delivery']
+296,BIRYANI BOSS,5.0,3,,['Indian'],Scarborough,[]
+297,Maurya East Indian Roti,3.5,4,,['Indian'],Mount Pleasant and Davisville,"['Delivery', 'Takeout']"
+298,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
+299,Silver Chopsticks,4.5,10,,"['Thai', 'Vietnamese']",Etobicoke,"['Outdoor dining', 'Delivery', 'Takeout']"
+300,Indian Roti Meal,0.0,0,,"['Halal', 'Indian', 'Fast Food']",Chinatown,"['Outdoor dining', 'Delivery', 'Takeout']"
+301,The Social Gardener,3.5,5,,"['Vegan', 'Vegetarian']",,[]
+302,Exotic Tandoori Restaurant,3.0,2,,"['Indian', 'Pakistani']",Downtown Core,[]
+303,Cafelicious,4.0,1,,['Indian'],,[]
+304,Laziz Curry Kitchen,3.5,2,,['Indian'],Downtown Core,['Delivery']
+305,Vatica,3.5,9,,['Indian'],,['Takeout']
+306,Bollywood Restaurant,5.0,1,,"['Indian', 'Breakfast & Brunch', 'Buffets']",,[]
+307,Sidhartha Fine Indian Cuisine,0.0,0,,"['Middle Eastern', 'Indian', 'Pakistani']",,[]
+308,Saravanaa Bhavan,3.5,98,$$,['Indian'],Milliken,"['Delivery', 'Takeout']"
+309,Pariwar Restaurant,3.0,34,$$,['Indian'],Scarborough,['Delivery']
+310,Amaya,1.5,10,$,['Indian'],Entertainment District,[]
+311,Adda Bistro,4.0,8,,"['Indian', 'Bars']",Corktown,"['Make an Online Reservation', 'Outdoor dining', 'Delivery', 'Takeout']"
